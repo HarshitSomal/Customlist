@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Customlist</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<string-array name="titles">
+    
+    <item>Harsh1</item>
+     <item>Harsh2</item>
+      <item>Harsh3</item>
+       <item>Harsh4</item>
+        <item>Harsh5</item>
+</string-array>
+<string-array name="description">
+    
+    <item>He is nice person1</item>
+     <item>HarshHe is nice person2</item>
+      <item>He is nice person3</item>
+       <item>He is nice person4</item>
+        <item>He is nice person5</item>
+</string-array>
+</resources>
